@@ -1,0 +1,5 @@
+export const STATUS = {
+  CANCELED: "CANCELED",
+  WAITING: "WAITING",
+  CONFIRMED: "CONFIRMED",
+};
